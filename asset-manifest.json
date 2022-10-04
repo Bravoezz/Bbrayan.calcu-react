@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "./static/css/main.05fa1c67.css",
+    "main.js": "./static/js/main.cf958d62.js",
+    "static/media/fondoCalcu.jpg": "./static/media/fondoCalcu.3f6df446eb3a8eb38118.jpg",
+    "index.html": "./index.html",
+    "main.05fa1c67.css.map": "./static/css/main.05fa1c67.css.map",
+    "main.cf958d62.js.map": "./static/js/main.cf958d62.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.05fa1c67.css",
+    "static/js/main.cf958d62.js"
+  ]
+}
